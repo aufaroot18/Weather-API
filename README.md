@@ -2,6 +2,9 @@
 
 Cek cuaca menggunakan API dari [OpenWeatherMap](https://openweathermap.org).
 
+Demo:
+https://aufaroot18.github.io/Weather-API/
+
 API:
 https://openweathermap.org/api
 
